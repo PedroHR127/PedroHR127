@@ -1,11 +1,23 @@
-<h2> <img src="https://c.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" width="50"> Hi, My name is Pedro Henrique!</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### <img src="https://media.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif" width="50"> A little about me...  
+<p align="left"> 
+  Olá me chamo Pedro Henrique, atualmente atuo na área de <strong>Desenvolvimento de Games</strong>.<br>
+  Cursando o Curso Técnico de Desenvolvimento de Sistemas.
+</p>
 
-```lua
-local PedroHR = {
-    age = 18;
-    countries = {"Brazil"};
-    languages = {"Lua", "JS", "C#"};
-};
-```
+<p align="left">
+  🦄 Linguagens: <strong>.lua, C#, JS.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Figma, Electron, Git e GitHub.</strong>
+</p>
+
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>  
