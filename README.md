@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp;Cursando **TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS** no <a href="[SENAI](https://www7.fiemg.com.br/SENAI)">SENAI</a>.
-- 💼 &nbsp;Trabalhando como **Freelancer** na <a href="[LINK DA EMPRESA](https://multitheftauto.com/)">Plataforma Multi Theft Auto</a>
+- 💼 &nbsp;Trabalhando como **Freelancer** na <a href="[LINK DA EMPRESA](https://multitheftauto.com/)">Plataforma Multi Theft Auto.</a>
 - 🌱 &nbsp;Aprendendo mais sobre **Desenvolvimento Mobile**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
