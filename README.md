@@ -31,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/PedroHR127">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHR127&theme=tokyonight&show_icons=true" />
 </a>
 
