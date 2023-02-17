@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=PedroHR127&color=645CBB)
+
 <h3> 👨‍🎓 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
