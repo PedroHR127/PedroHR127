@@ -1,23 +1,44 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h3> 👨‍🎓 &nbsp;Sobre mim </h3>
 
-<p align="left"> 
-  Olá me chamo Pedro Henrique, atualmente atuo na área de <strong>Desenvolvimento de Games</strong>.<br>
-  Cursando o Curso Técnico de Desenvolvimento de Sistemas.
-</p>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Cursando **TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS** no <a href="[SENAI](https://www7.fiemg.com.br/SENAI)">SENAI</a>.
+- 💼 &nbsp; Trabalhando como **Freelancer** na <a href="[LINK DA EMPRESA](https://multitheftauto.com/)">Plataforma Multi Theft Auto</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Mobile**.
 
-<p align="left">
-  🦄 Linguagens: <strong>.lua, C#, JS.</strong>
-</p>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<p align="left">
-  💼 Ferramentas: <strong>Figma, Electron, Git e GitHub.</strong>
-</p>
+**Aplicações e Dados**
+
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+**DevOps**
 
-  <a href="#">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-</p>  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHR127&theme=tokyonight&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: PedroHR127](https://img.shields.io/badge/-PedroHR127-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/pedrohr127)](linkedin.com/in/pedrohr127)
+[![Gmail Badge](https://img.shields.io/badge/-henriquepedroreis127@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquepedroreis127@gmail.com)](mailto:henriquepedroreis127@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/PedroHR127?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/PedroHR127))
