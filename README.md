@@ -3,7 +3,7 @@
 <h3> 👨‍🎓 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp;**Técnico em Desenvolvimento de Sistemas**</a>.
+- 🎓 &nbsp;Técnico em Desenvolvimento de Sistemas</a>.
 - 💼 &nbsp;Desenvolvedor Back-end no LYA Group.</a>
 - 🌱 &nbsp;Aprendendo mais sobre **Desenvolvimento Mobile**.
 
