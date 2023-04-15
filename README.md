@@ -24,6 +24,7 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=1572B6)
 
 **Ferramentas de Desenvolvimento**
 
