@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp;Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp;**Técnico em Desenvolvimento de Sistemas**</a>.
-- 💼 &nbsp;Trabalhando como **Freelancer** na <a href="[LINK DA EMPRESA](https://multitheftauto.com/)">Plataforma Multi Theft Auto.</a>
+- 💼 &nbsp;Desenvolvedor Back-end no LYA Group.</a>
 - 🌱 &nbsp;Aprendendo mais sobre **Desenvolvimento Mobile**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
