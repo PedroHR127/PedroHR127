@@ -14,6 +14,7 @@
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=1572B6)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
